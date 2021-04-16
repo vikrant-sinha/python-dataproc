@@ -4,6 +4,19 @@
 
 [1]: https://pypi.org/project/google-cloud-dataproc/#history
 
+## [2.4.0](https://www.github.com/googleapis/python-dataproc/compare/v2.3.1...v2.4.0) (2021-04-16)
+
+
+### Features
+
+* add 'from_service_account_info' factory to clients ([6525f86](https://www.github.com/googleapis/python-dataproc/commit/6525f86b698242d77606cffb42713d18724a2526))
+
+
+### Bug Fixes
+
+* fix sphinx identifiers ([6525f86](https://www.github.com/googleapis/python-dataproc/commit/6525f86b698242d77606cffb42713d18724a2526))
+* use correct retry deadlines ([#122](https://www.github.com/googleapis/python-dataproc/issues/122)) ([6525f86](https://www.github.com/googleapis/python-dataproc/commit/6525f86b698242d77606cffb42713d18724a2526))
+
 ### [2.3.1](https://www.github.com/googleapis/python-dataproc/compare/v2.3.0...v2.3.1) (2021-03-27)
 
 

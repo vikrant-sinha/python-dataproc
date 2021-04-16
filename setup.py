@@ -36,7 +36,7 @@ except ImportError:
 
 name = "google-cloud-dataproc"
 description = "Google Cloud Dataproc API client library"
-version = "2.3.1"
+version = "2.4.0"
 # Should be one of:
 # 'Development Status :: 3 - Alpha'
 # 'Development Status :: 4 - Beta'
